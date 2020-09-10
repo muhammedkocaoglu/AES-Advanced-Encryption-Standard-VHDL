@@ -4,7 +4,7 @@ This is the simulation of 128 bit AES encryption.
 
 There are key(128 bit in binary) and message(128 bit in binary) as inputs and cipher text(128 bit in binary) as output.     
 
-I'll simulate 3 exampes and they are all in hex:     
+I simulated 3 exampes and they are all in hex:     
 
 -------------------------------------------------------------     
 
